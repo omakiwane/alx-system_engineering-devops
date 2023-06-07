@@ -1,2 +1,2 @@
-#!/bin bash
-lss -aln
+#!/bin/bash
+ls -aln
